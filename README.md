@@ -1,10 +1,7 @@
 # docker-curator
 
 [![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/morkot/curator/builds/)
-
 [![](https://images.microbadger.com/badges/image/morkot/curator.svg)](https://microbadger.com/images/morkot/curator)
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg)](https://hub.docker.com/r/morkot/curator/)
 
 Dockerized version of Curator used for managing indices of Elasticsearch. You can delete, re-index, restore and much more using this tool.
 
