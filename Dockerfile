@@ -1,5 +1,4 @@
-ARG ALPINE_VERSION="3.4"
-FROM alpine:${ALPINE_VERSION}
+FROM alpine:3.4
 
 ARG CURATOR_VERSION="5.0.4"
 RUN apk --update add python py-setuptools py-pip && \
